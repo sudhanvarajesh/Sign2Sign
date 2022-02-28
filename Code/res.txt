@@ -1,0 +1,27 @@
+		after saving		before saving
+
+car : 						7.12 seconds
+abc :  						18.51 seconds
+
+sorry : 			        6.912 seconds
+12345 : 			 		30.23 seconds
+
+curry sorry : 				12.55 seconds
+hello world : 				76.35 seconds
+
+15 letters 	:				24.78 seconds
+random 15 	:				86.64 seconds
+
+
+
+
+
+
+
+
+
+
+
+		after saving		
+sorry : 10.44 seconds
+12345 : 42.67 seconds 
